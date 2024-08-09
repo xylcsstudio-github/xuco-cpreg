@@ -3,4 +3,4 @@
 ##### You need to following XUCO Copyright Guard Law.
 ##### Obtaining licenses, copyright laws or reg the copyright: xylcsstudio
 > [!Note]
-> That after copyright registration, the copyright will be sacred and inviolable, and it has strong absolute copyright and legal effect in any country and region.
+> Note That after copyright registration, the copyright will be sacred and inviolable, and it has strong absolute copyright and legal effect in any country and region.
